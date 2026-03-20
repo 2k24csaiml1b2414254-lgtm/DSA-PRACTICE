@@ -47,7 +47,7 @@ DSA-PRACTICE
 
 | Topic               | Problems |
 | ------------------- | -------- |
-| Arrays              |     5    |
+| Arrays              |     6    |
 | Strings             |          |
 | Linked List         |          |
 | Stack               |          |
