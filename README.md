@@ -6,7 +6,7 @@ The goal of this repository is to improve problem-solving skills and prepare for
 Problems are solved from platforms like **LeetCode** and **GeeksforGeeks**, with clear code, explanations, and time complexity analysis.
 ---
 
-## 🚀 Topics Covered
+## 🚀 Topics Cover
 * Arrays
 * Strings
 * Linked Lists
